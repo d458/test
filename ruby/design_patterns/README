@@ -1,0 +1,5 @@
+- separate out the things that change from those that stay constant
+- program to an interface, not an implementation
+- prefer composition over inheritance
+- delegate, delegate, delegate
+- you ain't gonna need it
