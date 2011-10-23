@@ -1,5 +1,5 @@
-require 'account.rb'
-require 'module.rb'
+require 'account'
+require 'module'
 
 # include this module
 include HelloModule
