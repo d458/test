@@ -24,4 +24,8 @@ class InterestBearingAccount < BankAccount
   def deposit_interest
     @balance += @rate * @balance
   end
+
+  def method_with_many_args *args
+    puts args
+  end
 end
