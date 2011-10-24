@@ -1,6 +1,7 @@
 1. uses Inheritance
 2. every object implicitly inherits from Object
 3. idea is to build an abstract base class with a skeletal method (template method). 
-The template method drives the bit of processing that needs to vary, but does so by making call to abstract methods, which are then supplied by the concrete subclasses.
+The template method drives the bit of processing that needs to vary, but does so by making calls to abstract methods, which are then supplied by the concrete subclasses.
 
-4. another example of a template method or optional hook is initialize (contructor) method in every object
+4. You can have optional hook methods
+5. another example of a template method or optional hook is initialize (contructor) method in every object
