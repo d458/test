@@ -1,1 +1,6 @@
-another example of template method or hook is initialize (contructor) method in every object
+1. uses Inheritance
+2. every object implicitly inherits from Object
+3. idea is to build an abstract base class with a skeletal method (template method). The template method drives the of processing that needs to vary, 
+but does so by making call to abstract methods, which are then supplied by the concrete subclasses.
+
+4. another example of a template method or optional hook is initialize (contructor) method in every object
