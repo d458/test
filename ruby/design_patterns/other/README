@@ -1,0 +1,2 @@
+1. duck typing - doesn't matter who your parent is or what subclass you are as long as you implement required method signature
+2. use code blocks often (same thing as closure or lambda)
