@@ -1,7 +1,8 @@
 -- Backend
-1. Ruby [Rails, Sinatra]
+1. Ruby [Rails, Sinatra] {JRuby}
 2. JavaScript [Node.js, Express, etc.]
 3. Scala [Lift]
+4. Objective C
 
 -- Frontend
 a. Stylus (CSS3 through Node.js]
