@@ -2,12 +2,12 @@
 1. Ruby [Rails, Sinatra] {JRuby}
 2. JavaScript [Node.js, Express, etc.]
 3. Scala [Lift]
-4. Objective C
+4. Objective C 2.0
 
 -- Frontend
 a. Stylus (CSS3 through Node.js]
 b. HTML 5
-c. JavaScript (backbone.js on top of underscore, jquery, mootools)
+c. JavaScript (backbone.js on top of underscore, jquery, mootools), CoffeeScript
 
 
 http://oos.moxiecode.com/blog/experiments/javascript-canvas/
