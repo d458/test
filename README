@@ -7,7 +7,7 @@
 -- Frontend
 a. Stylus (CSS3 through Node.js]
 b. HTML 5
-c. JavaScript (backbone.js on top of underscore, jquery, mootools), CoffeeScript
+c. JavaScript (backbone.js on top of underscore, jquery, mootools), CoffeeScript, http://flatironjs.org/
 
 
 http://oos.moxiecode.com/blog/experiments/javascript-canvas/
